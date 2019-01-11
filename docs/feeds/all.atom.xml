@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Hydrogen</title><link href="https://dsholes.github.io/pelican-hydrogen/" rel="alternate"></link><link href="https://dsholes.github.io/pelican-hydrogen/feeds/all.atom.xml" rel="self"></link><id>https://dsholes.github.io/pelican-hydrogen/</id><updated>2019-01-08T00:00:00+01:00</updated><entry><title>Another Test Article</title><link href="https://dsholes.github.io/pelican-hydrogen/notebook/another-test-article" rel="alternate"></link><published>2019-01-08T00:00:00+01:00</published><updated>2019-01-08T00:00:00+01:00</updated><author><name>Darren Sholes</name></author><id>tag:dsholes.github.io,2019-01-08:/pelican-hydrogen/notebook/another-test-article</id><summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sagittis non ex eget pretium. Proin et ex eleifend, lobortis dui at, consequat sapien. Aenean scelerisque nisl cursus, pellentesque ipsum sed, varius risus. Mauris nunc nulla, suscipit in imperdiet sed, facilisis nec neque. Cras ornare nisi in enim aliquet condimentum. Sed porttitor nunc mi, nec condimentum est vestibulum eget. Mauris pharetra faucibus odio, id rhoncus metus maximus at. Nunc ullamcorper vel ex sed pharetra. Vestibulum a rutrum lorem. Duis sollicitudin, ante non sagittis sagittis, odio magna porta ipsum, quis semper enim quam eget neque. Mauris ac lacinia felis, at condimentum neque.
+</summary><content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sagittis non ex eget pretium. Proin et ex eleifend, lobortis dui at, consequat sapien. Aenean scelerisque nisl cursus, pellentesque ipsum sed, varius risus. Mauris nunc nulla, suscipit in imperdiet sed, facilisis nec neque. Cras ornare nisi in enim aliquet condimentum. Sed porttitor nunc mi, nec condimentum est vestibulum eget. Mauris pharetra faucibus odio, id rhoncus metus maximus at. Nunc ullamcorper vel ex sed pharetra. Vestibulum a rutrum lorem. Duis sollicitudin, ante non sagittis sagittis, odio magna porta ipsum, quis semper enim quam eget neque. Mauris ac lacinia felis, at condimentum neque.
+&lt;/p&gt;
+&lt;h2&gt;An H2 heading&lt;/h2&gt;
+&lt;p&gt;Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer et dui libero. Ut a massa mi. Phasellus ligula mi, congue quis dolor ultricies, egestas scelerisque sapien. Proin sollicitudin arcu arcu, et dignissim sapien luctus ac. Etiam et odio tempor, scelerisque felis ac, convallis risus. Vestibulum sollicitudin odio nunc, et pharetra ipsum dapibus quis. Quisque eget risus vitae elit luctus condimentum. Nullam vulputate libero ac venenatis porttitor. Vestibulum sed mauris ut neque volutpat laoreet eu vitae leo.&lt;/p&gt;
+&lt;div class="math"&gt;$$ x^2 = \frac{y}{z} $$&lt;/div&gt;
+&lt;h1&gt;An H1 heading&lt;/h1&gt;
+&lt;p&gt;Integer fringilla tincidunt fringilla. Vivamus sodales suscipit lorem at eleifend. Vestibulum at ligula id urna maximus aliquam quis vel odio. Vivamus feugiat non leo ac ultrices. When &lt;span class="math"&gt;\(x\)&lt;/span&gt; is not &lt;span class="math"&gt;\(y\)&lt;/span&gt; or &lt;span class="math"&gt;\(z\)&lt;/span&gt; Donec placerat eu velit id hendrerit. Etiam sit amet sagittis augue, eu dignissim felis. Phasellus fermentum gravida lorem, eu pulvinar tellus porttitor quis. What about $40 vs $50 though? Nam vitae tempor leo, nec tristique augue. Sed sem justo, sagittis volutpat auctor ut, porta et velit.&lt;/p&gt;
+&lt;p&gt;Donec a nibh sed libero maximus accumsan et nec urna. Sed porttitor efficitur magna, sit amet dapibus augue semper nec. Cras feugiat nulla vitae risus dignissim sodales eget placerat mi. Etiam eleifend convallis leo, vitae feugiat sem suscipit sed. Pellentesque eu eleifend neque, nec vestibulum est. Maecenas elementum porta purus a egestas. In vel ipsum turpis. Nulla tempus posuere laoreet. In vulputate dignissim justo ut dignissim.&lt;/p&gt;
+&lt;p&gt;Directly style images within Markdown file to get different sizes. The default
+image style is &lt;code&gt;width:100%&lt;/code&gt;. The image below uses &lt;code&gt;width:200px&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dsholes.github.io/pelican-hydrogen/images/moon.jpg" style="width:200px !important;"&gt;&lt;/p&gt;
+&lt;p&gt;Vestibulum iaculis non ex ut imperdiet. Pellentesque efficitur urna turpis, ac iaculis metus aliquet ut. Vestibulum pretium nunc eget quam accumsan, nec dapibus lectus sollicitudin. Sed malesuada imperdiet ligula, eget laoreet velit auctor non. Sed hendrerit, felis iaculis dignissim condimentum, dui ligula lacinia risus, id imperdiet enim turpis vel erat. Vestibulum consectetur imperdiet placerat. Aliquam tincidunt lectus sit amet mi congue, non vestibulum ligula volutpat.&lt;/p&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="article"></category><category term="python"></category><category term="pandas"></category></entry><entry><title>Beer Recipe 1</title><link href="https://dsholes.github.io/pelican-hydrogen/notebook/beer-recipe-1" rel="alternate"></link><published>2019-01-07T00:00:00+01:00</published><updated>2019-01-07T00:00:00+01:00</updated><author><name>Darren Sholes</name></author><id>tag:dsholes.github.io,2019-01-07:/pelican-hydrogen/notebook/beer-recipe-1</id><summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sagittis non ex eget pretium. Proin et ex eleifend, lobortis dui at, consequat sapien. Aenean scelerisque nisl cursus, pellentesque ipsum sed, varius risus. Mauris nunc nulla, suscipit in imperdiet sed, facilisis nec neque. Cras ornare nisi in enim aliquet condimentum. Sed porttitor nunc mi, nec condimentum est vestibulum eget. Mauris pharetra faucibus odio, id rhoncus metus maximus at. Nunc ullamcorper vel ex sed pharetra. Vestibulum a rutrum lorem. Duis sollicitudin, ante non sagittis sagittis, odio magna porta ipsum, quis semper enim quam eget neque. Mauris ac lacinia felis, at condimentum neque.
+</summary><content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sagittis non ex eget pretium. Proin et ex eleifend, lobortis dui at, consequat sapien. Aenean scelerisque nisl cursus, pellentesque ipsum sed, varius risus. Mauris nunc nulla, suscipit in imperdiet sed, facilisis nec neque. Cras ornare nisi in enim aliquet condimentum. Sed porttitor nunc mi, nec condimentum est vestibulum eget. Mauris pharetra faucibus odio, id rhoncus metus maximus at. Nunc ullamcorper vel ex sed pharetra. Vestibulum a rutrum lorem. Duis sollicitudin, ante non sagittis sagittis, odio magna porta ipsum, quis semper enim quam eget neque. Mauris ac lacinia felis, at condimentum neque.
+&lt;/p&gt;
+&lt;h2&gt;An H2 heading&lt;/h2&gt;
+&lt;p&gt;Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer et dui libero. Ut a massa mi. Phasellus ligula mi, congue quis dolor ultricies, egestas scelerisque sapien. Proin sollicitudin arcu arcu, et dignissim sapien luctus ac. Etiam et odio tempor, scelerisque felis ac, convallis risus. Vestibulum sollicitudin odio nunc, et pharetra ipsum dapibus quis. Quisque eget risus vitae elit luctus condimentum. Nullam vulputate libero ac venenatis porttitor. Vestibulum sed mauris ut neque volutpat laoreet eu vitae leo.&lt;/p&gt;
+&lt;h1&gt;An H1 heading&lt;/h1&gt;
+&lt;p&gt;Integer fringilla tincidunt fringilla. Vivamus sodales suscipit lorem at eleifend. Vestibulum at ligula id urna maximus aliquam quis vel odio. Vivamus feugiat non leo ac ultrices. Donec placerat eu velit id hendrerit. Etiam sit amet sagittis augue, eu dignissim felis. Phasellus fermentum gravida lorem, eu pulvinar tellus porttitor quis. Nam vitae tempor leo, nec tristique augue. Sed sem justo, sagittis volutpat auctor ut, porta et velit.&lt;/p&gt;
+&lt;p&gt;Donec a nibh sed libero maximus accumsan et nec urna. Sed porttitor efficitur magna, sit amet dapibus augue semper nec. Cras feugiat nulla vitae risus dignissim sodales eget placerat mi. Etiam eleifend convallis leo, vitae feugiat sem suscipit sed. Pellentesque eu eleifend neque, nec vestibulum est. Maecenas elementum porta purus a egestas. In vel ipsum turpis. Nulla tempus posuere laoreet. In vulputate dignissim justo ut dignissim.&lt;/p&gt;
+&lt;p&gt;Directly style images within Markdown file to get different sizes. The default
+image style is &lt;code&gt;width:100%&lt;/code&gt;. The image below uses &lt;code&gt;width:200px&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dsholes.github.io/pelican-hydrogen/images/moon.jpg" style="width:200px !important;"&gt;&lt;/p&gt;
+&lt;p&gt;Vestibulum iaculis non ex ut imperdiet. Pellentesque efficitur urna turpis, ac iaculis metus aliquet ut. Vestibulum pretium nunc eget quam accumsan, nec dapibus lectus sollicitudin. Sed malesuada imperdiet ligula, eget laoreet velit auctor non. Sed hendrerit, felis iaculis dignissim condimentum, dui ligula lacinia risus, id imperdiet enim turpis vel erat. Vestibulum consectetur imperdiet placerat. Aliquam tincidunt lectus sit amet mi congue, non vestibulum ligula volutpat.&lt;/p&gt;</content><category term="recipe"></category><category term="beer"></category><category term="homebrew"></category></entry><entry><title>Getting Started With Pelican</title><link href="https://dsholes.github.io/pelican-hydrogen/notebook/getting-started-with-pelican" rel="alternate"></link><published>2019-01-03T00:00:00+01:00</published><updated>2019-01-03T00:00:00+01:00</updated><author><name>Darren Sholes</name></author><id>tag:dsholes.github.io,2019-01-03:/pelican-hydrogen/notebook/getting-started-with-pelican</id><summary type="html">&lt;p&gt;Hey There. I'm just writing a simple code test:&lt;/p&gt;
+&lt;p&gt;What happens with &lt;code&gt;inline&lt;/code&gt; code?
+</summary><content type="html">&lt;p&gt;Hey There. I'm just writing a simple code test:&lt;/p&gt;
+&lt;p&gt;What happens with &lt;code&gt;inline&lt;/code&gt; code?
+&lt;/p&gt;
+&lt;pre class="codehilite"&gt;&lt;code class="language-python"&gt;from __future__ import print_function, unicode_literals
+
+import functools
+import logging
+import os
+from collections import namedtuple
+from math import ceil
+
+import six
+
+logger = logging.getLogger(__name__)
+PaginationRule = namedtuple(
+    'PaginationRule',
+    'min_page URL SAVE_AS',
+)
+
+
+class Paginator(object):
+    def __init__(self, name, url, object_list, settings, per_page=None):
+        self.name = name
+        self.url = url
+        self.object_list = object_list
+        self.settings = settings
+        if per_page:
+            self.per_page = per_page
+            self.orphans = settings['DEFAULT_ORPHANS']
+        else:
+            self.per_page = len(object_list)
+            self.orphans = 0
+
+        self._num_pages = self._count = None
+
+    def page(self, number):
+        &amp;quot;Returns a Page object for the given 1-based page number.&amp;quot;
+        bottom = (number - 1) * self.per_page
+        top = bottom + self.per_page
+        if top + self.orphans &amp;gt;= self.count:
+            top = self.count
+        return Page(self.name, self.url, self.object_list[bottom:top], number,
+                    self, self.settings)&lt;/code&gt;&lt;/pre&gt;</content><category term="pelican"></category><category term="python"></category></entry><entry><title>My First Review</title><link href="https://dsholes.github.io/pelican-hydrogen/notebook/my-first-review" rel="alternate"></link><published>2018-12-21T10:20:00+01:00</published><updated>2018-12-21T10:20:00+01:00</updated><author><name>Darren Sholes</name></author><id>tag:dsholes.github.io,2018-12-21:/pelican-hydrogen/notebook/my-first-review</id><summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sagittis non ex eget pretium. Proin et ex eleifend, lobortis dui at, consequat sapien. Aenean scelerisque nisl cursus, pellentesque ipsum sed, varius risus. Mauris nunc nulla, suscipit in imperdiet sed, facilisis nec neque. Cras ornare nisi in enim aliquet condimentum. Sed porttitor nunc mi, nec condimentum est vestibulum eget. Mauris pharetra faucibus odio, id rhoncus metus maximus at.</summary><content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sagittis non ex eget pretium. Proin et ex eleifend, lobortis dui at, consequat sapien. Aenean scelerisque nisl cursus, pellentesque ipsum sed, varius risus. Mauris nunc nulla, suscipit in imperdiet sed, facilisis nec neque. Cras ornare nisi in enim aliquet condimentum. Sed porttitor nunc mi, nec condimentum est vestibulum eget. Mauris pharetra faucibus odio, id rhoncus metus maximus at. Nunc ullamcorper vel ex sed pharetra. Vestibulum a rutrum lorem. Duis sollicitudin, ante non sagittis sagittis, odio magna porta ipsum, quis semper enim quam eget neque. Mauris ac lacinia felis, at condimentum neque.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="NASA Image" src="https://dsholes.github.io/pelican-hydrogen/images/nasa-image-1.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer et dui libero. Ut a massa mi. Phasellus ligula mi, congue quis dolor ultricies, egestas scelerisque sapien. Proin sollicitudin arcu arcu, et dignissim sapien luctus ac. Etiam et odio tempor, scelerisque felis ac, convallis risus. Vestibulum sollicitudin odio nunc, et pharetra ipsum dapibus quis. Quisque eget risus vitae elit luctus condimentum. Nullam vulputate libero ac venenatis porttitor. Vestibulum sed mauris ut neque volutpat laoreet eu vitae leo.&lt;/p&gt;
+&lt;p&gt;What does a list look like?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First I go to the store&lt;ul&gt;
+&lt;li&gt;subitem&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Then I do this&lt;ul&gt;
+&lt;li&gt;One sub&lt;/li&gt;
+&lt;li&gt;Two sub with &lt;code&gt;inline&lt;/code&gt; and &lt;span class="math"&gt;\(\LaTeX\)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Integer fringilla tincidunt fringilla. Vivamus sodales suscipit lorem at eleifend. Vestibulum at ligula id urna maximus aliquam quis vel odio. Vivamus feugiat non leo ac ultrices. Donec placerat eu velit id hendrerit. Etiam sit amet sagittis augue, eu dignissim felis. Phasellus fermentum gravida lorem, eu pulvinar tellus porttitor quis. Nam vitae tempor leo, nec tristique augue. Sed sem justo, sagittis volutpat auctor ut, porta et velit.&lt;/p&gt;
+&lt;p&gt;Donec a nibh sed libero maximus accumsan et nec urna. Sed porttitor efficitur magna, sit amet dapibus augue semper nec. Cras feugiat nulla vitae risus dignissim sodales eget placerat mi. Etiam eleifend convallis leo, vitae feugiat sem suscipit sed. Pellentesque eu eleifend neque, nec vestibulum est. Maecenas elementum porta purus a egestas. In vel ipsum turpis. Nulla tempus posuere laoreet. In vulputate dignissim justo ut dignissim.&lt;/p&gt;
+&lt;p&gt;Directly style images within Markdown file to get different sizes. The default
+image style is &lt;code&gt;width:100%&lt;/code&gt;. The image below uses &lt;code&gt;width:200px&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dsholes.github.io/pelican-hydrogen/images/moon.jpg" style="width:200px !important;"&gt;&lt;/p&gt;
+&lt;p&gt;Vestibulum iaculis non ex ut imperdiet. Pellentesque efficitur urna turpis, ac iaculis metus aliquet ut. Vestibulum pretium nunc eget quam accumsan, nec dapibus lectus sollicitudin. Sed malesuada imperdiet ligula, eget laoreet velit auctor non. Sed hendrerit, felis iaculis dignissim condimentum, dui ligula lacinia risus, id imperdiet enim turpis vel erat. Vestibulum consectetur imperdiet placerat. Aliquam tincidunt lectus sit amet mi congue, non vestibulum ligula volutpat.&lt;/p&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="review"></category><category term="test"></category></entry><entry><title>Sample Bootstrap Post</title><link href="https://dsholes.github.io/pelican-hydrogen/notebook/sample-bootstrap-post" rel="alternate"></link><published>2002-01-01T09:00:00+01:00</published><updated>2002-01-01T09:00:00+01:00</updated><author><name>Darren Sholes</name></author><id>tag:dsholes.github.io,2002-01-01:/pelican-hydrogen/notebook/sample-bootstrap-post</id><summary type="html">This blog post shows a few different types of content that's supported and styled with Bootstrap. Basic typography, images, and code are all supported.</summary><content type="html">&lt;p&gt;This blog post shows a few different types of content that's supported and styled with Bootstrap. Basic typography, images, and code are all supported.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href="#"&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Curabitur blandit tempus porttitor. &lt;strong&gt;Nullam quis risus eget urna mollis&lt;/strong&gt; ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Etiam porta &lt;em&gt;sem malesuada magna&lt;/em&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+&lt;h2&gt;Heading&lt;/h2&gt;
+&lt;p&gt;Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+&lt;h3&gt;Sub-heading&lt;/h3&gt;
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/p&gt;
+&lt;pre class="codehilite"&gt;&lt;code class="language-json"&gt;{
+    &amp;quot;name&amp;quot;: &amp;quot;AwesomeProject&amp;quot;,
+    &amp;quot;version&amp;quot;: &amp;quot;0.0.1&amp;quot;,
+    &amp;quot;private&amp;quot;: true,
+    &amp;quot;scripts&amp;quot;: {
+        &amp;quot;start&amp;quot;: &amp;quot;node node_modules/react-native/local-cli/cli.js start&amp;quot;,
+        &amp;quot;test&amp;quot;: &amp;quot;jest&amp;quot;
+    },
+    &amp;quot;dependencies&amp;quot;: {
+        &amp;quot;react&amp;quot;: &amp;quot;16.0.0&amp;quot;,
+        &amp;quot;react-native&amp;quot;: &amp;quot;0.50.2&amp;quot;
+    },
+    &amp;quot;devDependencies&amp;quot;: {
+        &amp;quot;babel-jest&amp;quot;: &amp;quot;21.2.0&amp;quot;,
+        &amp;quot;babel-preset-react-native&amp;quot;: &amp;quot;4.0.0&amp;quot;,
+        &amp;quot;jest&amp;quot;: &amp;quot;21.2.1&amp;quot;,
+        &amp;quot;react-test-renderer&amp;quot;: &amp;quot;16.0.0&amp;quot;
+    },
+    &amp;quot;jest&amp;quot;: {
+        &amp;quot;preset&amp;quot;: &amp;quot;react-native&amp;quot;
+    }
+}&lt;/code&gt;&lt;/pre&gt;
+
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
+&lt;h3&gt;Sub-heading&lt;/h3&gt;
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
+&lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
+&lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
+&lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
+&lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;</content><category term="sample"></category><category term="bootstrap"></category><category term="post"></category></entry><entry><title>Alpha Centauri</title><link href="https://dsholes.github.io/pelican-hydrogen/notebook/alpha-centauri" rel="alternate"></link><published>2001-01-01T09:00:00+01:00</published><updated>2001-01-01T09:00:00+01:00</updated><author><name>Wikipedia</name></author><id>tag:dsholes.github.io,2001-01-01:/pelican-hydrogen/notebook/alpha-centauri</id><summary type="html">The sun's closest stellar neighbors are three stars in the Alpha Centauri system. The two main stars are Alpha Centauri A and Alpha Centauri B, which form a binary pair. The third star is Proxima Centauri.</summary><content type="html">&lt;p&gt;The sun's closest stellar neighbors are three stars in the Alpha Centauri system. The two main stars are Alpha Centauri A and Alpha Centauri B, which form a binary pair. The third star is Proxima Centauri.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alpha Centauri&lt;/strong&gt; (&lt;strong&gt;α Centauri&lt;/strong&gt;, abbreviated &lt;strong&gt;Alpha Cen&lt;/strong&gt;, &lt;strong&gt;α Cen&lt;/strong&gt;) is the &lt;a href="https://en.wikipedia.org/wiki/List_of_nearest_stars_and_brown_dwarfs" title="List of nearest stars and brown dwarfs"&gt;closest&lt;/a&gt; &lt;a href="https://en.wikipedia.org/wiki/Star_system" title="Star system"&gt;star system&lt;/a&gt; to the &lt;a href="https://en.wikipedia.org/wiki/Solar_System" title="Solar System"&gt;Solar System&lt;/a&gt; at a distance of 4.37 &lt;a href="https://en.wikipedia.org/wiki/Light-year" title="Light-year"&gt;light-years&lt;/a&gt; (1.34 &lt;a href="https://en.wikipedia.org/wiki/Parsec" title="Parsec"&gt;pc&lt;/a&gt;). It consists of three stars: the &lt;a href="https://en.wikipedia.org/wiki/Binary_star" title="Binary star"&gt;pair&lt;/a&gt; &lt;strong&gt;Alpha Centauri A&lt;/strong&gt; (also named &lt;strong&gt;Rigil Kentaurus&lt;/strong&gt;) and &lt;strong&gt;Alpha Centauri B&lt;/strong&gt; together with a small and faint &lt;a href="https://en.wikipedia.org/wiki/Red_dwarf" title="Red dwarf"&gt;red dwarf&lt;/a&gt;, &lt;strong&gt;Alpha Centauri C&lt;/strong&gt; (also named &lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/Proxima_Centauri" title="Proxima Centauri"&gt;Proxima Centauri&lt;/a&gt;&lt;/strong&gt;), that may be gravitationally bound to the other two. To the unaided eye, the two main components appear as a single point of light with an apparent &lt;a href="https://en.wikipedia.org/wiki/Visual_magnitude" title="Visual magnitude"&gt;visual magnitude&lt;/a&gt; of −0.27, forming the brightest &lt;a href="https://en.wikipedia.org/wiki/Star" title="Star"&gt;star&lt;/a&gt; in the southern &lt;a href="https://en.wikipedia.org/wiki/Constellation" title="Constellation"&gt;constellation&lt;/a&gt; of &lt;a href="https://en.wikipedia.org/wiki/Centaurus" title="Centaurus"&gt;Centaurus&lt;/a&gt; and the &lt;a href="https://en.wikipedia.org/wiki/List_of_brightest_stars" title="List of brightest stars"&gt;third-brightest&lt;/a&gt; star in the night sky, outshone only by &lt;a href="https://en.wikipedia.org/wiki/Sirius" title="Sirius"&gt;Sirius&lt;/a&gt; and &lt;a href="https://en.wikipedia.org/wiki/Canopus" title="Canopus"&gt;Canopus&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alpha Centauri" src="https://dsholes.github.io/pelican-hydrogen/images/alpha-centauri.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;Alpha Centauri A (α Cen A) has 110 percent of the mass and 151.9 percent of the luminosity of the &lt;a href="/wiki/Sun" title="Sun"&gt;Sun&lt;/a&gt;, and Alpha Centauri B (α Cen B) is smaller and cooler, at 90.7 percent of the Sun's mass and 44.5 percent of its visual luminosity. During the pair's 79.91-year orbit about a common centre, the distance between them varies from about that between &lt;a href="/wiki/Pluto" title="Pluto"&gt;Pluto&lt;/a&gt; and the Sun to that between &lt;a href="/wiki/Saturn" title="Saturn"&gt;Saturn&lt;/a&gt; and the Sun.&lt;/p&gt;
+&lt;p&gt;Proxima Centauri (α Cen C) is at the slightly smaller distance of 1.29 parsecs or 4.24 light years from the Sun, making it the closest star to the Sun, even though it is not visible to the naked eye. The separation of Proxima from Alpha Centauri AB is about 0.06 parsecs, 0.2 light years or 15,000 &lt;a href="/wiki/Astronomical_unit" title="Astronomical unit"&gt;astronomical units&lt;/a&gt; (AU), equivalent to 500 times the size of &lt;a href="/wiki/Neptune" title="Neptune"&gt;Neptune&lt;/a&gt;'s orbit. &lt;a href="/wiki/Proxima_b" title="Proxima b"&gt;Proxima b&lt;/a&gt;, an &lt;a href="/wiki/Terrestrial_planet" title="Terrestrial planet"&gt;Earth-sized&lt;/a&gt; &lt;a href="/wiki/Exoplanet" title="Exoplanet"&gt;exoplanet&lt;/a&gt; in the &lt;a href="/wiki/Habitable_zone" title="Habitable zone"&gt;habitable zone&lt;/a&gt; of Proxima Centauri, has been detected and may be a destination of future interstellar spacecraft, including a fleet of &lt;em&gt;&lt;a href="/wiki/StarChip_(spacecraft)" title="StarChip (spacecraft)"&gt;StarChip&lt;/a&gt;&lt;/em&gt; spacecraft currently being developed for a flyby mission by the &lt;a href="/wiki/Breakthrough_Starshot" title="Breakthrough Starshot"&gt;Breakthrough Starshot&lt;/a&gt; project.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Source: &lt;a href="https://en.wikipedia.org/wiki/Alpha_Centauri"&gt;https://en.wikipedia.org/wiki/Alpha_Centauri&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><category term="stars"></category><category term="planets"></category><category term="g-type"></category></entry><entry><title>HTML5 Element Test</title><link href="https://dsholes.github.io/pelican-hydrogen/notebook/html5-element-test" rel="alternate"></link><published>2000-01-01T09:00:00+01:00</published><updated>2000-01-01T09:00:00+01:00</updated><author><name>Darren Sholes</name></author><id>tag:dsholes.github.io,2000-01-01:/pelican-hydrogen/notebook/html5-element-test</id><summary type="html">A example page containing common HTML5 elements for CSS testing purposes. https://github.com/taniarascia/html5-test/</summary><content type="html">&lt;p&gt;A example page containing common HTML5 elements for CSS testing purposes. https://github.com/taniarascia/html5-test/&lt;/p&gt;
+&lt;p&gt;Common HTML5 elements for CSS testing purposes.&lt;/p&gt;
+
+&lt;h1&gt;Formatting&lt;/h1&gt;
+
+&lt;p&gt;This sentence is &lt;b&gt;bold&lt;/b&gt;. If you like semantics, you might go with
+  &lt;strong&gt;strong&lt;/strong&gt; or &lt;em&gt;emphasized&lt;/em&gt; text. If not, &lt;i&gt;italic&lt;/i&gt; is
+  still around. &lt;small&gt;Small&lt;/small&gt; text is for fine print. Your copy can also
+  be &lt;sub&gt;subscripted&lt;/sub&gt; and &lt;sup&gt;superscripted&lt;/sup&gt;, &lt;ins&gt;inserted&lt;/ins&gt;,
+  &lt;del&gt;deleted&lt;/del&gt;, or &lt;mark&gt;highlighted&lt;/mark&gt;. You would use a
+  &lt;a href="#!"&gt;hyperlink&lt;/a&gt; to go to a new page.&lt;/p&gt;
+
+&lt;p&gt;If you like to write about there are plenty of semantic tags for you.
+  There's the generic &lt;code&gt;code&lt;/code&gt;, as well as &lt;kbd&gt;keyboard input&lt;/kbd&gt;,
+  &lt;samp&gt;computer output&lt;/samp&gt;, and &lt;var&gt;variables&lt;/var&gt;.&lt;/p&gt;
+
+&lt;p&gt;You might have need of a &lt;cite&gt;citation&lt;/cite&gt;, &lt;q&gt;short quotation&lt;/q&gt;,
+  &lt;abbr&gt;abbreviation&lt;/abbr&gt;, or &lt;dfn&gt;definition&lt;/dfn&gt;. It might be
+  &lt;time&gt;10:00pm&lt;/time&gt;.&lt;/p&gt;
+
+&lt;address&gt;&lt;p&gt;123 Fake Street&lt;br&gt; Springfield, USA&lt;/p&gt;&lt;/address&gt;
+
+&lt;h2&gt;Blockquote&lt;/h2&gt;
+
+&lt;blockquote&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam
+  molestiae et assumenda molestias alias ut saepe doloribus, porro, deleniti
+  neque, harum minus, commodi laudantium quod excepturi nam corrupti odit
+  provident. &lt;cite&gt;- Blockquote Citation&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;Preformatted Text&lt;/h2&gt;
+
+&lt;pre&gt;class Voila {
+public:
+// Voila
+static const string VOILA = "Voila";
+}&lt;/pre&gt;
+
+&lt;h2&gt;Horizontal Line&lt;/h2&gt;
+
+&lt;hr&gt;
+
+&lt;h1&gt;Headings&lt;/h1&gt;
+
+&lt;h1&gt;First Heading h1&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea delectus
+  cupiditate minima, magni possimus commodi, eveniet? Rem, adipisci architecto
+  pariatur libero aliquid culpa sunt accusantium. Ipsa error aliquid et!
+  Animi.&lt;/p&gt;
+
+&lt;h2&gt;Second Heading h2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia molestias
+  ullam quasi est a nemo, accusamus voluptatum autem. Eius explicabo est
+  assumenda voluptatem id, hic maxime mollitia facere debitis quos.&lt;/p&gt;
+
+&lt;h3&gt;Third Heading h3&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo deleniti,
+  repudiandae rerum nam laborum eligendi aperiam. Autem id, ad necessitatibus
+  accusantium, facilis, quae ullam est, voluptates debitis fugiat quos
+  inventore!&lt;/p&gt;
+
+&lt;h4&gt;Fourth Heading h4&lt;/h4&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque cum eum
+  eligendi voluptatum quasi nisi doloremque ipsam unde, laboriosam nihil
+  voluptatem consequatur quam non similique vero ratione animi sit
+  veritatis.&lt;/p&gt;
+
+&lt;h5&gt;Fifth Heading h5&lt;/h5&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit voluptatem
+  necessitatibus eos iusto nam deserunt, dicta possimus error qui reiciendis,
+  aut dolore magnam eligendi maiores expedita commodi perferendis non
+  blanditiis.&lt;/p&gt;
+
+&lt;h6&gt;Sixth Heading h6&lt;/h6&gt;
+&lt;h1&gt;Lists&lt;/h1&gt;
+
+&lt;h2&gt;Unordered list&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;List item one
+    &lt;ul&gt;
+      &lt;li&gt;Nested list item&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;List item two&lt;/li&gt;
+  &lt;li&gt;List item three&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Ordered list&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;List item one
+    &lt;ol&gt;
+      &lt;li&gt;Nested list item&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;List item two&lt;/li&gt;
+  &lt;li&gt;List item three&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Definition List&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Definition Title One&lt;/dt&gt;
+  &lt;dd&gt;First definition description&lt;/dd&gt; &lt;dt&gt;Definition Title Two&lt;/dt&gt;
+  &lt;dd&gt;Second definition description&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h1&gt;Tables&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Head 1&lt;/th&gt;
+      &lt;th&gt;Head 2&lt;/th&gt;
+      &lt;th&gt;Head 3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Footer 1&lt;/th&gt;
+      &lt;th&gt;Footer 2&lt;/th&gt;
+      &lt;th&gt;Footer 3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Description 1&lt;/td&gt;
+      &lt;td&gt;Description 2&lt;/td&gt;
+      &lt;td&gt;Description 3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Description 1&lt;/td&gt;
+      &lt;td&gt;Description 2&lt;/td&gt;
+      &lt;td&gt;Description 3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Description 1&lt;/td&gt;
+      &lt;td&gt;Description 2&lt;/td&gt;
+      &lt;td&gt;Description 3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><category term="html"></category><category term="sample"></category><category term="test"></category></entry></feed>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://dsholes.github.io/pelican-hydrogen/notebook/another-test-article</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://dsholes.github.io/pelican-hydrogen/notebook/beer-recipe-1</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://dsholes.github.io/pelican-hydrogen/notebook/getting-started-with-pelican</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://dsholes.github.io/pelican-hydrogen/notebook/my-first-review</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://dsholes.github.io/pelican-hydrogen/notebook/sample-bootstrap-post</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://dsholes.github.io/pelican-hydrogen/notebook/alpha-centauri</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://dsholes.github.io/pelican-hydrogen/notebook/html5-element-test</loc>
+    <priority>0.8</priority>
+  </url>
+
+
+  <url>
+    <loc>https://dsholes.github.io/pelican-hydrogen/about/</loc>
+    <priority>1.0</priority>
+  </url>
+
+
+</urlset>
