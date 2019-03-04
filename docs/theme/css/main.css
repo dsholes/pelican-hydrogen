@@ -59,6 +59,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 16px;
     text-align: left;
     color: #C4C4C4;
+    margin-bottom: 10px;
 }
 
 h1 {
@@ -206,6 +207,7 @@ input[type=text], select {
 .navBar {
     background-color: #FFF;
     overflow: hidden;
+    margin: 0 5%;
 }
 
 .navBar a {
@@ -213,12 +215,13 @@ input[type=text], select {
     padding: 14px 25px;
     text-decoration: none;
     font-family: "Raleway";
-    font-size: 18px;
+    font-size: 22px;
     float: left;
 }
 
 .navBar a.navTitle {
     margin-right: 50px;
+    padding-left: 0px;
 }
 
 .navBar a:hover {
@@ -256,7 +259,9 @@ responsive*/
 
     /*Brings the menu icon into view and floats it to the right*/
     .navBar a.icon {
-        display: block; float: right;
+        display: block;
+        float: right;
+        padding-right: 0px;
     }
 
     /*The navBar class will be changed to 'navBar responsive' using JS.
@@ -286,7 +291,7 @@ responsive*/
 .landingBannerImage ,.bannerImage {
     width: 100%;
     background-size:cover;
-    height: 205px;
+    height: 45vh;
     background-position: center;
     clear:both;
     display: table;
@@ -494,9 +499,10 @@ footer a:hover{
 .articleItemContainer {
     margin-top: 10px;
     padding-top: 10px;
-    border-top: 2px solid #EAEAEA;
-    margin-bottom: 50px;
+    /* border-top: 2px solid #EAEAEA; */
+    margin-bottom: 80px;
 }
+
 
 .articleListTitle {
     text-align: left;
@@ -532,8 +538,20 @@ footer a:hover{
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 @media only screen and (min-width: 750px) {
     .articleTitle {
-        font-size: 3.6rem;
+        font-size: 3rem;
+        text-align: center;
     }
+
+    .articleMetaData {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+
+    /* a.navItem {
+        float: right;
+        padding-right: 0px;
+        padding-left: 50px;
+    } */
 
     h1 {
       font-size: 3.6rem;
@@ -576,7 +594,14 @@ footer a:hover{
     }
 
     .navBar {
+        /* max-width: 720px; */
         font-size: 20px;
+        margin:0 auto;
+    }
+
+    .navBar a.navTitle{
+        /* padding-left: 0px; */
+        padding-left: 25px;
     }
     .contentContainer {
         margin: 0 auto;
@@ -585,6 +610,11 @@ footer a:hover{
     .articleItemContainer {
         margin-top: 20px;
     }
+
+    .articleItemContainer .bannerImage {
+        height: 470px;
+    }
+
     .articleListContent > p {
         text-align: justify;
     }
