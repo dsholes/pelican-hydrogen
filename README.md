@@ -19,7 +19,7 @@ pelican --listen
 
 To build site for Github Pages:
 ```
-pelican -s pubishconf.py
+pelican -s publishconf.py
 ```
 
 TO DO:
